@@ -1,0 +1,18 @@
+.all{
+  text-align: center;
+  font-weight: bolder;
+}
+
+.HeaderSection{
+  font-weight: bolder;
+  font-size: 65px;
+}
+
+.HeaderSection1{
+  justify-content: center;
+  align-items: center;
+}
+
+.HeroSection{
+  font-size: 35px;
+}
